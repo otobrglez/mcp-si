@@ -19,4 +19,5 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 ## MCP Blacksmith (Luka Gačnik)
 
 - Intro: [https://mcpblacksmith.com/](https://mcpblacksmith.com/)
+- Docs: [MCP Blacksmith Docs](https://docs.mcpblacksmith.com/)
 - Code: [mcparmory/registry](https://github.com/mcparmory/registry)
