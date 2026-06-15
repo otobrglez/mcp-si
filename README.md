@@ -12,6 +12,6 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 
 ## Imprion - Blagajna
 
-- Intro: [https://imprion.io/]
+- Intro: [imprion.io](https://imprion.io/)
 - [Dokumentacija](https://mcp.pos.imprion.cloud/)
 - URL: `https://mcp.pos.imprion.cloud/mcp`
