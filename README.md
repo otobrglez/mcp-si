@@ -15,3 +15,8 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 - Intro: [imprion.io](https://imprion.io/)
 - [Dokumentacija](https://mcp.pos.imprion.cloud/)
 - URL: `https://mcp.pos.imprion.cloud/mcp`
+
+## MCP Blacksmith (Luka Gačnik)
+
+- Intro: [https://mcpblacksmith.com/](https://mcpblacksmith.com/)
+- Code: [mcparmory/registry](https://github.com/mcparmory/registry)
