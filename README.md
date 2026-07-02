@@ -21,3 +21,9 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 - Intro: [mcpblacksmith.com](https://mcpblacksmith.com/)
 - Docs: [MCP Blacksmith Docs](https://docs.mcpblacksmith.com/)
 - Code: [mcparmory/registry](https://github.com/mcparmory/registry)
+
+## Event Registry / NewsAPI.ai
+
+- Intro: [NewsAPI.ai](https://www.newsapi.ai/)
+- Docs: [MCP Integration Guide](https://www.newsapi.ai/documentation?tab=newsapi_mcp)
+- [NewsAPI.ai MCP Server (`newsapi-mcp`)](https://www.npmjs.com/package/newsapi-mcp)
