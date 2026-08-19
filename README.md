@@ -27,3 +27,9 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 - Intro: [NewsAPI.ai](https://www.newsapi.ai/)
 - Docs: [MCP Integration Guide](https://www.newsapi.ai/documentation?tab=newsapi_mcp)
 - [NewsAPI.ai MCP Server (`newsapi-mcp`)](https://www.npmjs.com/package/newsapi-mcp)
+
+## PredictLeads
+
+- Intro: [PredictLeads](https://predictleads.com)
+- Docs: [MCP Integration](https://docs.predictleads.com/mcp_integration)
+- URL: `https://mcp.predictleads.com`
