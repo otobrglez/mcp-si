@@ -33,3 +33,7 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 - Intro: [PredictLeads](https://predictleads.com)
 - Docs: [MCP Integration](https://docs.predictleads.com/mcp_integration)
 - URL: `https://mcp.predictleads.com`
+
+## Viberate
+
+- Docs: [Viberate MCP Server](https://www.viberate.com/mcp-server/)
