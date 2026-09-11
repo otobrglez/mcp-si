@@ -37,3 +37,9 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 ## Viberate
 
 - Docs: [Viberate MCP Server](https://www.viberate.com/mcp-server/)
+
+
+## AI Visibility Radar (llmvisio by Peter Mesarec)
+
+- Docs: [MCP Access](https://www.llmvisio.com/mcp-access)
+- URL: `https://www.llmvisio.com/mcp`
