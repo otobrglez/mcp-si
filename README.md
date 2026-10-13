@@ -43,3 +43,8 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 
 - Docs: [MCP Access](https://www.llmvisio.com/mcp-access)
 - URL: `https://www.llmvisio.com/mcp`
+
+## Enclave
+
+- Docs: [Enclave MCP Documentation](https://mcp.enclavehq.com/)
+- URL: `https://api.enclavehq.com/api/mcp`
