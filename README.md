@@ -48,3 +48,9 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 
 - Docs: [Enclave MCP Documentation](https://mcp.enclavehq.com/)
 - URL: `https://api.enclavehq.com/api/mcp`
+
+## Influee
+
+- Intro: [influee.co/features/agent-mcp](https://influee.co/features/agent-mcp)
+- Docs: [How to Connect Influee to Claude and ChatGPT](https://influee.co/blog/connect-influee-to-claude-and-chatgpt)
+- URL: `https://mcp.influee.co/dashboard/mcp`
