@@ -49,6 +49,12 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 - Docs: [Enclave MCP Documentation](https://mcp.enclavehq.com/)
 - URL: `https://api.enclavehq.com/api/mcp`
 
+## Bloki.si - Slovenian geospatial open data
+
+- Intro: [bloki.si](https://bloki.si)
+- Docs: [Setup](https://bloki.si/en/setup/)
+- URL: `https://mcp.bloki.si/mcp`
+
 ## Influee
 
 - Intro: [influee.co/features/agent-mcp](https://influee.co/features/agent-mcp)
