@@ -60,3 +60,9 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 - Intro: [influee.co/features/agent-mcp](https://influee.co/features/agent-mcp)
 - Docs: [How to Connect Influee to Claude and ChatGPT](https://influee.co/blog/connect-influee-to-claude-and-chatgpt)
 - URL: `https://mcp.influee.co/dashboard/mcp`
+
+## Kontekst.io - Slovenian, Croatian and Serbian language data
+
+- Intro: [kontekst.io](https://www.kontekst.io)
+- Docs: [Strežnik MCP](https://www.kontekst.io/streznik-mcp)
+- URL: `https://www.kontekst.io/mcp`
