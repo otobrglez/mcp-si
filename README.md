@@ -73,3 +73,8 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 - Docs: [Using the Index with an AI Assistant](https://indeks.rodoslovje.si/guide?lang=en#ai-assistant)
 - URL: `https://indeks-api.rodoslovje.si/mcp`
 
+## kolikočakam.si - Slovenian healthcare waiting times and doctors accepting new patients
+
+- Intro: [kolikocakam.si](https://kolikocakam.si)
+- Docs: [For AI: the kolikočakam MCP server](https://kolikocakam.si/en/ai)
+- URL: `https://mcp.kolikocakam.si`
