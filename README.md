@@ -60,3 +60,10 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 - Intro: [influee.co/features/agent-mcp](https://influee.co/features/agent-mcp)
 - Docs: [How to Connect Influee to Claude and ChatGPT](https://influee.co/blog/connect-influee-to-claude-and-chatgpt)
 - URL: `https://mcp.influee.co/dashboard/mcp`
+
+## Slovenian Genealogical Index - find your ancestors and remote family members
+
+- Intro: [Slovenian Genealogical Index](https://indeks.rodoslovje.si/)
+- Docs: [Using the Index with an AI Assistant](https://indeks.rodoslovje.si/guide?lang=en#ai-assistant)
+- URL: https://indeks-api.rodoslovje.si/mcp
+
