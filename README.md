@@ -66,3 +66,10 @@ Please feel free to reach out and/or open a PR/issue with your suggestions.
 - Intro: [kontekst.io](https://www.kontekst.io)
 - Docs: [Strežnik MCP](https://www.kontekst.io/streznik-mcp)
 - URL: `https://www.kontekst.io/mcp`
+
+## Slovenian Genealogical Index - find your ancestors and remote family members
+
+- Intro: [Slovenian Genealogical Index](https://indeks.rodoslovje.si/)
+- Docs: [Using the Index with an AI Assistant](https://indeks.rodoslovje.si/guide?lang=en#ai-assistant)
+- URL: `https://indeks-api.rodoslovje.si/mcp`
+
